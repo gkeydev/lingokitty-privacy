@@ -29,5 +29,4 @@ Lingo Kitty is family-friendly and suitable for all ages, including children. Be
 ### 5. Contact
 If you have any questions regarding this Privacy Policy, please reach out via:
 - **Developer**: Lajos Kelemen
-- **email: gkeydev@gmail.com
-- **Repository**: [https://github.com/gkeydev/kitty2d](https://github.com/gkeydev/kitty2d)
+- **email:** gkeydev@gmail.com
